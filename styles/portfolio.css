@@ -134,3 +134,47 @@ main{
     line-height: 28px;
     color: #757575;
 }
+/* Resjume styles */
+.resume-content{
+    display: flex;
+    gap: 24px;
+}
+
+.resume-heading-h2{
+    margin: 150px 110px;
+    font-weight: 700;
+    font-size: 35px;
+    text-align: center;
+}
+
+.resume-h3{
+    font-weight: 700;
+    font-size: 30px;
+    color: #474747;
+    margin-bottom: 30px;
+}
+
+.resume-h4{
+    font-weight: 700;
+    font-size: 25px;
+    color: #474747;
+    margin-top: 30px;
+    margin-bottom: 10px;
+}
+
+.resume-h5{
+    font-weight: 600;
+    font-size: 20px;
+    color: #757575;
+    margin-bottom: 20px;
+}
+
+.resume-p{
+    font-weight: 400;
+    font-size: 16px;
+    color: #757575;
+    margin-bottom: 30px;
+}
+
+
+
