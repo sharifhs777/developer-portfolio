@@ -179,5 +179,18 @@ main{
 .resume-btn{
     text-align: center;
     margin-top: 50px;
+    margin-bottom: 100px;
 }
 
+/* Footer Style */
+
+.contact{
+    display: flex;
+    gap: 100px;
+    background: #FFF8F3;
+    padding: 130px 400px 130px 400px;
+}
+
+.contact .footer-heading{
+    margin-left: 0px;
+}
